@@ -29,3 +29,4 @@ export const Block = ({ value, currency, onChangeValue, onChangeCurrency }) => (
     />
   </div>
 );
+
